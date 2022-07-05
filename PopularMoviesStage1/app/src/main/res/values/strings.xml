@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PopularMoviesStage1</string>
+
+    <string name="main_display_message">URL JSON Result shown here…</string>
+    <string name="search">Search</string>
+    <string name="error_message">Error: Data could not load…</string>
+    <string name="sort_popularity">Sort By Popularity</string>
+    <string name="sort_rating">Sort By Rating</string>
+
+
+    <string name="title">Movie Title</string>
+    <string name="year">Year</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="description">Description…</string>
+
+
+
+</resources>
